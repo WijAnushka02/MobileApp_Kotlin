@@ -1,11 +1,3 @@
-It looks like you've received a standard retention alert from GitHub. Since Codespaces are temporary environments, GitHub automatically deletes them after a period of inactivity (usually 30 days) to save storage.
-
-To "fix" the deletion issue, you simply need to **open the Codespace** once via the link GitHub provided. This resets the timer. However, a better long-term fix is to ensure all your work is committed and pushed to your repository so you don't have to worry about the environment being deleted.
-
-Below is a professional, comprehensive `README.md` tailored for your **MobileApp\_Kotlin** project.
-
------
-
 # MobileApp\_Kotlin
 
 A modern Android application built using **Kotlin** and **Jetpack Compose**, focusing on clean architecture and reactive UI patterns.
